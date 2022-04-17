@@ -1,0 +1,5 @@
+numpy>=1.14.5
+matplotlib>=2.2.0
+Pillow
+torch
+torchvision
